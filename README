@@ -1,0 +1,13 @@
+Instalación y configuración.
+  Una vez descrompimido se abre una terminal en la ubicación y se ejecuta el siguiente comando "java -jar Clinica.jar"
+  En ese instante se debería de observar un inicio de sesión. 
+
+• Uso del programa.
+  Para utilizarlo pondría el user: "SantiagoR" con password "1234".
+  A partir de ese momento solo es navegar el menú.
+
+• Créditos.
+  Isaac Santiago Rodriguez Sanchez
+
+• Licencia.
+  MIT.
